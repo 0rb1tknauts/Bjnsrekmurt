@@ -1,0 +1,7 @@
+Bob#Dodge#ABC123#White#2
+Anthony#Hyundai#MAN420#Silver#1
+Matthew#Honda#RED400#Gray#2
+Gabriel#Toyota#AAA000#White#2
+Mike#Toyota#PUR283#Purple#0
+Alice#Hyundai#RIA284#White#0
+Fr. Ross#Goat#GOD001#Transparent#2
